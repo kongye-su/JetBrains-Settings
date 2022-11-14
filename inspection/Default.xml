@@ -40,12 +40,15 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="5">
+        <list size="8">
           <item index="0" class="java.lang.String" itemvalue="tqdm" />
           <item index="1" class="java.lang.String" itemvalue="pymongo" />
           <item index="2" class="java.lang.String" itemvalue="lxml" />
           <item index="3" class="java.lang.String" itemvalue="requests" />
           <item index="4" class="java.lang.String" itemvalue="scrapy" />
+          <item index="5" class="java.lang.String" itemvalue="pyOpenSSL" />
+          <item index="6" class="java.lang.String" itemvalue="cryptography" />
+          <item index="7" class="java.lang.String" itemvalue="tldextract" />
         </list>
       </value>
     </option>
@@ -58,5 +61,10 @@
         <option value="N803" />
       </list>
     </option>
+  </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="true" level="INFORMATION" enabled_by_default="true" editorAttributes="INFORMATION_ATTRIBUTES">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="true" />
   </inspection_tool>
 </profile>
