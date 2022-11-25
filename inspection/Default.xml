@@ -5,6 +5,7 @@
       <language minSize="48" name="Python" />
     </Languages>
   </inspection_tool>
+  <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignoredUrls">
       <list>
