@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/kongye-su/TieBaSign.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://foss.heptapod.net/openpyxl/openpyxl" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\17526\PycharmProjects" />
