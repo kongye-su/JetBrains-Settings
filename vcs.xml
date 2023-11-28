@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/AUTOMATIC1111/stable-diffusion-webui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JoeanAmier/XHS-Downloader.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\17526\PycharmProjects" />
