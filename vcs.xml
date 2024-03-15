@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/panpp-git/TFA-Net.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sreyas-mohan/DeepFreq.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\17526\PycharmProjects" />
