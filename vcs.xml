@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/Jiahuiqu/D2AGCN-for-Hyperspectral-Change-Detection.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/meiqihu/HyperNet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\17526\PycharmProjects" />
