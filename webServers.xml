@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e39578d-5ed8-47d5-87c6-655fd437bd8e" name="root@connect.westb.seetacloud.com:13607 password">
+        <fileTransfer accessType="SFTP" host="connect.westb.seetacloud.com" port="13607" sshConfigId="1f39c5e0-24db-4897-8786-cb5e712f04e0" sshConfig="root@connect.westb.seetacloud.com:13607 password" />
+      </webServer>
+    </option>
+  </component>
+</application>
